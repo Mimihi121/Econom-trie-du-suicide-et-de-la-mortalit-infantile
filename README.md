@@ -1,4 +1,4 @@
-# Economtrie du suicide et de la mortalité infantile   
+# Economtrie du suicide et de la mortalité infantile sous SAS et Excel
 
 
 Grâce aux table de l'OCDE, projeter les chiffres du suicide et de la mortalité infantile dans le monde. 
